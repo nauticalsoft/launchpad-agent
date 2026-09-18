@@ -1,0 +1,37 @@
+# LaunchPad Product Kit — single source of truth for every directory listing.
+# Filled from nautical.co.in / app.nautical.co.in research. Fields marked TODO
+# need your confirmation before signups run.
+
+name: "NHY-QR Digital Menu/Catalogue"  # app-store / play-store name
+brand: "Nautical"
+url: "https://app.nautical.co.in"
+homepage: "https://nautical.co.in"
+
+username: "nhyqr"
+username_fallbacks:
+  - "nhyqrmenu"
+  - "getnhyqr"
+  - "nhyqrapp"
+  - "nauticalapp"
+
+email: ""                            # TODO: dedicated Gmail for +alias verification (set via Gmail connector)
+founder_name: "Lakshay Bhardwaj"
+
+# ---- Copy blocks (reuse across every site) ----
+tagline_60: "Scan, order & pay at the table — one QR, no app to install"
+short_desc_160: "NHYQR Digital Menu is QR ordering & payments for cafés and restaurants: guests scan a table QR, browse the live menu, order, and pay by UPI or card — with real-time kitchen updates."
+long_desc_500: "NHYQR Digital Menu turns any table into a self-ordering station. Guests scan a QR code and get the venue's live menu — photos, add-ons, veg/non-veg markers, combos — order and pay in a few taps through UPI or cards, and track the order live. Venue owners get a single owner console for menu builder, inventory, analytics, and teams, with every order routing instantly to a kitchen display. Built for cafés, bakeries, QSRs and full-service restaurants, it cuts scan-to-cart time to under 90 seconds and removes counter queues."
+long_desc_1000: "NHYQR Digital Menu is the guest-facing ordering layer of Nautical, the restaurant & retail operating system. Built as a React Native app, it is available on Google Play and the App Store as 'NHYQR Digital Menu'. Features: scan-a-table-QR ordering with no app download for guests; live digital menus with photos, add-ons, veg/non-veg markers and combo suggestions; shared table cart for groups; secure checkout via Razorpay UPI and cards with taxes, service charges and discounts applied automatically; digital receipts; and real-time order tracking from accepted to prepared to served. For owners, the platform includes a menu builder, inventory, team management, analytics, and a kitchen display system, and extends to self-order kiosks (Smart Kiosk Pro/Lite), POS terminals, smart soundboxes and table-top ordering. Marketing services help venues run offers and promotions. Learn more at nautical.co.in."
+
+# ---- Directory-specific notes (filled during triage/submit) ----
+categories:
+  - "Food & Beverage"
+  - "Restaurant Technology"
+  - "SaaS"
+  - "QR / Digital Menu"
+tags:
+  - "qr menu"
+  - "digital menu"
+  - "restaurant pos"
+  - "table ordering"
+  - "upi payments"

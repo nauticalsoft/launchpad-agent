@@ -1,0 +1,68 @@
+#,Platform,Website,Category,What_Its_For,Cost,Pro_Tips
+1,Product Hunt,https://www.producthunt.com,Launch Platform,"The #1 launch community - post your product, get upvotes, maker stories & launch day traffic",Free,"Launch Tue-Thu; warm up your community before posting; reply to every comment"
+2,Hacker News (Show HN),https://news.ycombinator.com,Community / Launch,"Post a Show HN thread for feedback from the dev community",Free,"Needs a working product + honest story; title is everything"
+3,BetaList,https://betalist.com,Beta Launch,"Early adopters discover your beta product and join your waitlist",Free + Paid featured,"Best BEFORE launch to build a waitlist"
+4,BetaPage,https://betapage.co,Beta Launch,"Beta product listings for early signups",Free + Paid,"Submit with a demo/video"
+5,Launching Next,https://www.launchingnext.com,Launch Platform,"Curated daily launches with maker interviews",Free + Paid,"Nice mid-tier launch option"
+6,Uneed,https://www.uneed.best,Launch Platform,"Community voting platform for new products",Free,"Small but engaged maker community"
+7,Makers.dev,https://makers.dev,Community,"Maker community to share projects & get feedback",Free,"Good for build-in-public content"
+8,Indie Hackers,https://www.indiehackers.com,Community,"Share milestones, revenue & get founder feedback",Free,"Post genuine progress updates"
+9,Microlaunch,https://microlaunch.net,Launch Platform,"Free listings + promo for indie products",Free + Paid,"Cheap featured spots"
+10,SideProjectors,https://www.sideprojectors.com,Marketplace / Community,"List your side project for exposure (and potential sale)",Free,
+11,ProductRant,https://productrant.com,Launch / Review,"Product launches, reviews & maker community",Free,
+12,Makerlog,https://getmakerlog.com,Community,"Track and share your build-in-public progress",Free,
+13,Wip,https://wip.chat,Community,"Maker community - ship publicly, get feedback",Free,
+14,Build In Public,https://buildinpublic.com,Community,"Build in public platform + community",Free,
+15,Reddit (r/SaaS r/startups),https://www.reddit.com,Community,"r/SaaS, r/startups, r/alphaandbetausers, r/roastmystartup",Free,"Don't spam - share value first; follow each sub's rules"
+16,Dev.to,https://dev.to,Community / Publishing,"Publish launch posts for a large dev audience",Free,"Write a real tutorial + product story"
+17,HackerNoon,https://hackernoon.com,Publishing,"Tech stories & product announcements",Free,
+18,GrowthHackers,https://growthhackers.com,Community,"Growth marketing community - share your launch & growth tactics",Free,
+19,Startup Buffer,https://startupbuffer.com,Directory,"Submit your startup for free visibility",Free,
+20,Startup Stash,https://startupstash.com,Directory,"Curated directory of startup tools & products",Free,
+21,Killer Startups,https://www.killerstartups.com,Directory / Review,"Get your startup reviewed & listed",Free + Paid,
+22,StartUp88,https://startup88.com,Directory,"Startup directory for extra exposure",Free,
+23,StartupBase,https://startupbase.io,Directory,"New startup listings",Free,
+24,StartupLister,https://startuplister.com,Directory,"Free startup submission + newsletter push",Free,
+25,Startup Ranking,https://www.startup-ranking.com,Directory,"Startup directory with ranking",Free,
+26,Favird,https://favird.com,Directory,"Curated SaaS directory (marketing-focused)",Free,
+27,SaaS Directory,https://saasdir.com,Directory,"Free directory for SaaS products",Free,
+28,AlternativeTo,https://alternativeto.net,Directory,"Get listed as an alternative to popular tools",Free,"Huge organic traffic from comparison searches"
+29,Submit.co,https://submit.co,Directory,"Curated list of 100+ places to submit your startup",Free,"Use as your submission checklist"
+30,dir.directory,https://dir.directory,Directory,"Directory of directories - find more listing sites",Free,
+31,GrowthList,https://growthlist.co,Directory,"Directory of growth & marketing tools",Free,
+32,G2,https://www.g2.com,Review Site,"B2B software reviews & rankings - big SEO authority",Free listing,"Claim your profile & ask customers for reviews"
+33,Capterra,https://www.capterra.com,Review Site,"Huge software directory with buyer traffic",Free + Paid ads,
+34,Software Advice,https://www.softwareadvice.com,Review Site,"Software recommendations & reviews (Gartner)",Free listing,
+35,GetApp,https://www.getapp.com,Review Site,"Business software directory (Gartner)",Free listing,
+36,TrustRadius,https://www.trustradius.com,Review Site,"Verified B2B software reviews",Free listing,
+37,Crozdesk,https://www.crozdesk.com,Review Site,"Software comparison & reviews",Free listing,
+38,Software Suggest,https://www.softwaresuggest.com,Review Site,"Software directory & reviews",Free listing,
+39,FinancesOnline,https://financesonline.com,Review Site,"Business software reviews & comparisons",Free listing,
+40,GoodFirms,https://www.goodfirms.co,Directory / Review,"Software & service provider reviews",Free listing,
+41,Clutch,https://clutch.co,Directory / Review,"B2B software & service provider profiles",Free listing,
+42,DesignRush,https://www.designrush.com,Directory,"Software & agency listings",Free listing,
+43,SaaSWorthy,https://www.saasworthy.com,Review Site,"SaaS product reviews & comparisons",Free,
+44,SaaSHub,https://www.saashub.com,Directory / Review,"Independent SaaS directory with alternatives",Free,
+45,There's An AI For That (TAAFT),https://theresanaiforthat.com,AI Directory,"The biggest AI tools directory - very high traffic",Free + Paid,"Add an AI tag + strong description"
+46,Futurepedia,https://www.futurepedia.io,AI Directory,"Popular AI tools directory",Free + Paid,
+47,Toolify,https://www.toolify.ai,AI Directory,"AI directory with traffic stats",Free + Paid,
+48,FutureTools,https://www.futuretools.io,AI Directory,"AI tools directory + huge newsletter",Free + Paid,
+49,Aixploria,https://www.aixploria.com,AI Directory,"One of the largest AI directories",Free + Paid,
+50,AI Tool Hunt,https://www.aitoolhunt.com,AI Directory,"AI tools listing",Free + Paid,
+51,Insidr.ai,https://insidr.ai,AI Directory,"AI tools directory",Free + Paid,
+52,AI Tools Arena,https://aitoolsarena.com,AI Directory,"AI tools listing & comparison",Free,
+53,TopAI.tools,https://topai.tools,AI Directory,"AI tools directory with voting",Free + Paid,
+54,EasyWithAI,https://easywithai.com,AI Directory,"AI tools directory",Free + Paid,
+55,AllThingsAI,https://allthingsai.com,AI Directory,"AI tools & news",Free + Paid,
+56,AI Tools Club,https://aitoolsclub.com,AI Directory,"AI tools directory",Free + Paid,
+57,AIWore,https://aiwore.com,AI Directory,"AI tools directory",Free + Paid,
+58,AI Scout,https://aiscout.net,AI Directory,"AI tools directory",Free + Paid,
+59,AIDirectory.io,https://aidirectory.io,AI Directory,"AI tools directory",Free + Paid,
+60,AIToolNet,https://www.aitoolnet.com,AI Directory,"AI tools directory",Free + Paid,
+61,AITools.fyi,https://aitools.fyi,AI Directory,"AI tools directory",Free + Paid,
+62,SaaS AI Tools,https://www.saasaitools.com,AI Directory,"Directory of AI SaaS products",Free + Paid,
+63,AppSumo,https://www.appsumo.com,Deal Platform,"Lifetime deals - big exposure + revenue",Revenue share,"Great for B2C/SMB tools; 90-day opt-out"
+64,Dealify,https://dealify.com,Deal Platform,"SaaS lifetime deals",Revenue share,
+65,PitchGround,https://www.pitchground.com,Deal Platform,"Startup deals marketplace",Revenue share,
+66,StackSocial,https://www.stacksocial.com,Deal Platform,"Tech deals marketplace",Revenue share,
+67,SaaSGang,https://saasgang.io,Deal Platform,"Lifetime deal marketplace",Revenue share,
