@@ -14,7 +14,7 @@ username_fallbacks:
   - "nhyqrapp"
   - "nauticalapp"
 
-email: ""                            # TODO: dedicated Gmail for +alias verification (set via Gmail connector)
+email: "admin@nautical.co.in"
 founder_name: "Lakshay Bhardwaj"
 
 # ---- Copy blocks (reuse across every site) ----
